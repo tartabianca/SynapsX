@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591206979 source:c:\users\bianca\desktop\synapsx\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<algorithm>
+
